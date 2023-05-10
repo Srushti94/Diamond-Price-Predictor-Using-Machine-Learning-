@@ -6,7 +6,6 @@ Link to dataset: https://www.kaggle.com/datasets/shivam2503/diamonds <br>
 
 Trained Models <br>
 The following models were trained on the dataset: <br>
-
 Ridge <br>
 LinearRegression <br>
 Lasso <br>
@@ -16,9 +15,9 @@ KNeighborsRegressor <br>
 RandomForestRegressor <br>
 PCA <br>
 XGBRegressor <br>
+
 Libraries Used <br>
 The following libraries were used in this project: <br>
-
 pandas <br>
 numpy <br>
 matplotlib <br>
