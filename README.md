@@ -24,5 +24,6 @@ numpy <br>
 matplotlib <br>
 seaborn <br>
 sklearn <br>
+
 Conclusion <br>
 Random Forest and XGBoost gave us the best R2 score at 0.98. This means that 98% of the variability observed in price can be explained by these two models, which is fairly good. However when you compare RMSE scores between these two models, XGBoost gave us a lower (although only slightly) RMSE score 382.2 compared to 383.8. Therefore, we can conclude that the best model to predict the prices of diamonds is XGBoost with a polynomial feature degree of 1.
